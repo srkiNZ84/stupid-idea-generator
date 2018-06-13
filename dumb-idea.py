@@ -31,6 +31,7 @@ industryOrPopularTech = ["Big Data", \
         "Distributed Systems", \
         "DevOps", \
         "Serverless", \
+        "Progressive Web Apps", \
         "Crowd Sourcing"
 ]
 

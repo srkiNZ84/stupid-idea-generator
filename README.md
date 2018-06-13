@@ -3,11 +3,11 @@
 ## Why?
 
 So, being a ~~DevOps Engineer~~ Site Reliability Engineer, I spend a lot of time reading about new technologies,
-frameworks, languages etc... and how they make everything so easy, simple, scalable, fast etc...
+frameworks, languages, deploy methods (and so on...) and how they make everything so easy, simple, scalable, fast etc...
 
 While most of the time these claims are true (to some extent), I do find that unless you've used something "in anger"
 you probably don't know it as well as you think you do. (At least not well enough to be able to speak intelligently about what
-tradeoffs it makes to get it's ease of use, simplicity, scalability etc...)
+tradeoffs it makes to get its ease of use, simplicity, scalability etc...)
 
 So, the best way to try something out is to use it to build something!!! But, what to build?... 🤔
 
@@ -23,4 +23,6 @@ Inspired by:
 
 I've only tested this with Python3, but it should work with Python2 because it's really simple.
 
-  python3 dumb-idea.py
+```
+python3 dumb-idea.py
+```
