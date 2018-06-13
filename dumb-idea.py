@@ -10,7 +10,17 @@ popularProductOrCompany = ["AirBnB", \
         "Spotify", \
         "SpaceX", \
         "Snapchat", \
-        "Instagram"
+        "Instagram", \
+        "Juicero", \
+        "Tinder", \
+        "Tesla", \
+        "Pinterest", \
+        "SalesForce", \
+        "WhatsApp", \
+        "Slack", \
+        "Lyft", \
+        "YouTube", \
+        "Siri"
 ]
 
 industryOrPopularTech = ["Big Data", \
@@ -32,7 +42,14 @@ industryOrPopularTech = ["Big Data", \
         "DevOps", \
         "Serverless", \
         "Progressive Web Apps", \
-        "Crowd Sourcing"
+        "Crowd Sourcing", \
+        "Cryptocurrency", \
+        "BitCoin", \
+        "3D Printing", \
+        "Virtual Reality", \
+        "Augmented Reality", \
+        "the Gig Economy", \
+        "Voice Interfaces"
 ]
 
 print("It's like", popularProductOrCompany[random.randint(0, \
