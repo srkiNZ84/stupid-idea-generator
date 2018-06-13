@@ -26,3 +26,15 @@ I've only tested this with Python3, but it should work with Python2 because it's
 ```
 python3 dumb-idea.py
 ```
+
+## Output
+
+Currently has the output format:
+
+```
+It's like [PRODUCT/COMPANY] for [INDUSTRY/TECH]
+
+e.g.
+
+It's like Instagram for Distributed Systems
+```
